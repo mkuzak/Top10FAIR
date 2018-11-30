@@ -1,5 +1,5 @@
-#ZB MED - Information Center for Life Science, Cologne, Germany
-##Sprinters 
+# ZB MED - Information Center for Life Science, Cologne, Germany
+## Sprinters 
 - Eva Seidlmayer
 - Konrad Förstner
 - Mandela Fasemore
@@ -10,12 +10,12 @@
 - Chris Erdmann
 
 
-##Audience: researchers
+## Audience: researchers
 
 
-##Findability:
+## Findability:
 
-###Thing  1: Identifiers 
+### Thing  1: Identifiers 
 
 
 To make data findable, It has to be uniquely and persistently stored with an identifier. 
@@ -35,7 +35,7 @@ Include ORCIDs with datasets in repositories (e.g. in SRA, include the ORCID for
 Allows for tracking of provenance. 
 
 
-####Exercise:
+#### Exercise:
 Easy look up. 
 We have a list of DOIs below. Can you match the right document to the appropriate DOI?
 
@@ -59,7 +59,7 @@ Which part indicates the publishing institution? the prefix or the suffix of an 
 
 ORCID exercise: go through Getting Started with ORCID Integration https://members.orcid.org/api/getting-started 
 
-###Thing 2: Citations
+### Thing 2: Citations
 
 Zenodo for example is a tool that makes scientific data and publications easier to cite.  
 It supports various data and license types. It also supports source code from GitHub repositories.
@@ -67,7 +67,7 @@ It supports various data and license types. It also supports source code from Gi
 https://zenodo.org/
 
 
-####Exercise: 
+#### Exercise: 
 - Use the Zenodo Sandbox to upload an example
 https://sandbox.zenodo.org/
 
@@ -79,21 +79,21 @@ Questions:
 Todo: Screenshot of the upload form explaining some of the fields.
 
 
-###Thing 3: Wikidata
+### Thing 3: Wikidata
 
 It provides a common source of open data which can be used by Wikimedia projects such as Wikipedia, 
 and by anyone else, under a public domain license.
 
 https://www.wikidata.org/wiki/Wikidata
 
-####Exercise:
+#### Exercise:
 Go to Wikidata and find the publication date of the book “On the origin of species”.
 
 - Switch over to the linked dataset of the author of the book and see his other publications.
 - What did he published in 1839?
 
 
-###Thing 4: Registry of research Data Repositories (re3data)
+### Thing 4: Registry of research Data Repositories (re3data)
 
 This project aims to accelerate scientific discovery and enhance the integrity, 
 transparency, and reproducibility of data.
@@ -108,7 +108,7 @@ and DataCite therefore decided to develop a new tool to assist researchers
 https://www.re3data.org/browse/by-subject/
 
 
-####Exercise:
+#### Exercise:
 1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
 2) If you filter under subject what do you find?
 3) Do you think something is missing from the results?
@@ -122,9 +122,9 @@ data repositories: https://www.re3data.org/browse/by-subject/
 
 
 
-##Accessibility:
+## Accessibility:
 
-###Thing 5: Bioschema.org
+### Thing 5: Bioschema.org
 
 Bioschemas aims to improve data interoperability in life sciences. 
 It does this by encouraging people in life science to use schema.org markup, 
@@ -135,7 +135,7 @@ https://bioschemas.gitbook.io/training-portal/
 
 
 
-###Thing 6: Licenses
+### Thing 6: Licenses
 
 Being well informed about the appropriate licenses will ensure data is available within the 
 boundary intended by the authors and also enhance accessibility for target groups.
@@ -144,13 +144,13 @@ https://opensource.org/licenses
 https://wiki.creativecommons.org/wiki/Data_and_CC_licenses
 http://www.dcc.ac.uk/resources/how-guides/license-research-data
 
-####Exercise:
+#### Exercise:
 1) Use the link below to select the appropriate licence with the follow intentions,
 2) Allow your work to be adapted and also allow it to be used commercially
 - https://creativecommons.org/choose
 
 
-###Thing 7: Availability via torrents
+### Thing 7: Availability via torrents
 
 The era of Big Data is finally upon us, and Science is leading the trend. 
 A prerequisite for accessibility is availability. Well established sharing protocols 
@@ -167,16 +167,16 @@ Using Magnet URI scheme directly on the publication will make all the data acces
 http://academictorrents.com/
 https://en.wikipedia.org/wiki/Magnet_URI_scheme
 
-####Exercise:
+#### Exercise:
 1) Upload any small data set of your choice with the above link 
 2) Share with a colleague a link to access it over torrent 
 
 
 
-##Interoperability:
+## Interoperability:
 
 
-###Thing 8: Elixir platforms  
+### Thing 8: Elixir platforms  
 
 Standardization of life science data will ensure interoperability across different sub fields. 
 ELIXIR is an intergovernmental organisation that brings together life science resources 
@@ -185,7 +185,7 @@ from across Europe
 https://www.elixir-europe.org/platforms/interoperability
 
 
-###Thing 9: Research data management
+### Thing 9: Research data management
 
 - Bio2RDF is a large network of linked data for the life sciences. 
 It provides a resource for different resources to be integrated into single platform
@@ -198,7 +198,7 @@ It provides a resource for different resources to be integrated into single plat
     https://www.gfbio.org/
 
 
-###Thing 10: Machine-readability 
+### Thing 10: Machine-readability 
 
 
 
@@ -207,21 +207,21 @@ Make the data accessible via an API for automated reading
 http://opendatahandbook.org/glossary/en/terms/machine-readable/
 
 
-####Exercise - Crossref:
+#### Exercise - Crossref:
 1) Pick the DOI of a publication of your choice
 2) Open a Web browser and add the url
 3) https://api.crossref.org/works/<DOI> <= replace <DOI> with the DOI of the publication. 
 
 Example: https://api.crossref.org/works/10.1371/journal.pcbi.1004668
 
-####Exercise - DataCite:
+#### Exercise - DataCite:
 1) Pick the DOI of a dataset in Zenodo
 2) Open https://api.datacite.org/works/DOI> <= replace <DOI> with the DOI of the Zenodo entry
 
 Example https://api.datacite.org/works/10.5281/zenodo.1574835
 
-##Reusability:
-###Thing 11: Digitalization
+## Reusability:
+### Thing 11: Digitalization
 
 If the methods to record complex experiments are prone to error, 
 so that reproducible results cannot be guaranteed, how could you ever be sure you’re dealing with real insights and not random information?
@@ -233,18 +233,18 @@ store and retrieve all important data types in digital format.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/
 https://datamanagement.hms.harvard.edu/electronic-lab-notebooks
 
-###Thing 12: Containers
+### Thing 12: Containers
 
 In a scientific field we have most of the time deal with large amount of 
 data that they have to be processed before the publication. 
 One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments. 
 
 https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf
-####Exercise:
+#### Exercise:
 https://www.katacoda.com/courses/docker
 
 
-###Thing 13: Blockchain for Life Science
+### Thing 13: Blockchain for Life Science
 
 This technology could be a technical solution to the 
 current reproducibility crisis in science, and could "reduce waste and make more research results true"
@@ -262,7 +262,7 @@ https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-
 
 
 
-###Supplementary information:
+### Supplementary information:
 
 
 Research Data Infrastructure for the Life Sciences (NFDI4Life) 
