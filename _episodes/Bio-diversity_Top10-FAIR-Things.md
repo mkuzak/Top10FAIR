@@ -10,9 +10,10 @@ keypoints:
 - "First key point."
 ---
 
+## Sprinters
 
-# ZB MED - Information Center for Life Science, Cologne, Germany
-## Sprinters 
+ZB MED - Information Center for Life Science, Cologne, Germany
+
 - Eva Seidlmayer
 - Konrad Förstner
 - Mandela Fasemore
