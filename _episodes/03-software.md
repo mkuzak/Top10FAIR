@@ -19,7 +19,7 @@ The [FAIR data principles](https://www.go-fair.org/fair-principles/) are widely 
 
 ## Audience:
 * Researchers who develop software
-* Research software engineers
+* [Research Software Engineers](https://researchsoftware.org)
 
 ## Goals:
 Translate FAIR principles to applicable actions for scientific software
