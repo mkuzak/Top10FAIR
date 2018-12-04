@@ -66,7 +66,7 @@ How and where do you usually find software? What kind of keywords do you use whe
 Here are some examples of research software registries:
 * [bio.tools](https://bio.tools/)
 * [Research Software Directory](https://github.com/research-software-directory/research-software-directory) (check if your institution hosts one)
-* [ROpenSci](https://ropensci.github.io/)
+* [rOpenSci Project](https://ropensci.github.io/)
 * [Zenodo](https://zenodo.org/)
 
 [4OSS lesson episode about metadata and  registries](https://softdev4research.github.io/4OSS-lesson/05-use-registry/index.html)
