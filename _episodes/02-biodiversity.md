@@ -34,7 +34,7 @@ ZB MED - Information Center for Life Science, Cologne, Germany
 
 To make data findable, It has to be uniquely and persistently stored with an identifier. 
 
-- A DOI- Digital object identifier is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  https://doi.org/10.1109/5.771073).
+- A DOI- Digital object identifier is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the address bar (e. g.  https://doi.org/10.1109/5.771073).
 
     https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf
 
