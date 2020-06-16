@@ -73,7 +73,7 @@ Here are some examples of research software registries:
 
 ### Thing 3 - Get and Use a Unique and Persistent Identifier for your software
 It will help others find and access the particular version of your software.
-Unique means that the identifier will point on and only version and location of your software.
+Unique means that the identifier will point to the one and only version and location of your software.
 Persistent means that it will pointing to the same version and location for long, specified amount of time. For example Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
 
 *Activity*:
@@ -118,7 +118,7 @@ A license tells your (potential) users what they are allowed to do with your sof
 
 ### Thing 9 - State how to cite your software
 
-You want to get credit for your work. By providing the citation guideline you will help users of your software to cite your work properly. There is no single right way to do it. Software Sustainability Institute website provides more information and discussion on this topic in a blog post [How to cite and describe software](https://www.software.ac.uk/how-cite-software).
+You want to get credit for your work. By providing the citation guideline you will help users of your software to cite your work properly. There is no single right way to do it. The Software Sustainability Institute website provides more information and discussion on this topic in a blog post [How to cite and describe software](https://www.software.ac.uk/how-cite-software).
 
 **Activity**:
 Read “[Software citation principles](https://www.force11.org/software-citation-principles)” paper. Read documentation of [Citation File Format](https://citation-file-format.github.io/) and [create CFF file](https://citation-file-format.github.io/cff-initializer-javascript/) for your software.
